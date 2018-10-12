@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans 	xmlns="http://www.springframework.org/schema/beans"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:p="http://www.springframework.org/schema/p"
+	    xmlns:context="http://www.springframework.org/schema/context" 
+	    xmlns:mvc="http://www.springframework.org/schema/mvc"
+	    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.1.xsd
+	   http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.1.xsd     
+       http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.1.xsd 
+       http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.1.xsd
+       http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.1.xsd">
+	
+	<!-- 默认的注解映射的支持 -->
+	<!-- <mvc:annotation-driven /> 会自动注册DefaultAnnotationHandlerMapping与
+		AnnotationMethodHandlerAdapter 两个bean,是spring MVC为@Controllers分发请求所必须的。
+		并提供了：数据绑定支持，@NumberFormatannotation支持，@DateTimeFormat支持，@Valid支持，读
+		写XML的支持（JAXB），读写JSON的支持（Jackson） 
+	-->
+	<mvc:annotation-driven />
+	
+	<!-- 隐式地向 Spring 容器注册 
+	AutowiredAnnotationBeanPostProcessor、CommonAnnotationBeanPostProcessor、
+	PersistenceAnnotationBeanPostProcessor、RequiredAnnotationBeanPostProcessor 
+	这 4 个BeanPostProcessor。如果想使用@ Resource 、@ PostConstruct、@ PreDestroy等注解就必须声明CommonAnnotationBeanPostProcessor。
+	-->
+	<context:annotation-config />
+	
+	<!-- spring可以自动去扫描base-pack下面或者子包下面的java文件，如果扫描到有@Component @Controller@Service等这些注解的类，则把这些类注册为bean -->
+	<!-- 由于我们使用了@Controller注解，添加了@Controller注解注解的类就可以担任控制器（Action）的职责 -->
+	<!-- 
+		@Controller 声明Action组件
+		@Service 声明Service组件@Service("myMovieLister")
+		@Repository 声明Dao组件
+		@Component 泛指组件, 当不好归类时.
+		@RequestMapping("/menu") 请求映射
+		@Resource 用于注入，( j2ee提供的 ) 默认按名称装配，@Resource(name="beanName")
+		@Autowired 用于注入，(srping提供的) 默认按类型装配
+		@Transactional( rollbackFor={Exception.class}) 事务管理
+		@ResponseBody
+		@Scope("prototype") 设定bean的作用域 
+	-->
+	<context:component-scan base-package="com.lsfg.*" />
+	
+	<bean id="objectMapper" class="com.fasterxml.jackson.databind.ObjectMapper"></bean>
+   
+	<!-- 完成请求和注解的POJO映射  AnnotationMethodHandlerAdapter通过注解，把一个URL映射到Controller类的方法上 -->
+<!--	<bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter" />-->
+	<!-- 避免异步后中文乱码 -->
+	<bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">
+		<property name="messageConverters">
+			<list>
+				<bean id="stringHttpMessageConverter" class="org.springframework.http.converter.StringHttpMessageConverter">
+					<property name="writeAcceptCharset" value="false"/><!-- 避免响应头过大 -->
+					<property name="supportedMediaTypes">
+						<list>
+							<value>text/html;charset=UTF-8</value>
+							<value>text/json;charset=UTF-8</value>
+							<value>application/json;charset=UTF-8</value>
+							<value>application/xml;charset=UTF-8</value>
+						</list>
+					</property>
+				</bean>
+			</list>
+		</property>
+	</bean>
+	
+	<!-- 对转向页面的解析，前缀：prefix，后缀：suffix -->
+	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" p:prefix="/" p:suffix=".jsp" />
+	
+	<!-- 对静态资源文件的访问 -->
+	<mvc:resources location="/images/**" mapping="/images/" cache-period="31556926"></mvc:resources>
+	<mvc:resources location="/js/**" mapping="/js/" cache-period="31556926"></mvc:resources>
+	<mvc:resources location="/css/" mapping="/css/" cache-period="31556926"></mvc:resources>
+	<mvc:resources location="/" mapping="/**.html"></mvc:resources>
+	<mvc:resources location="/" mapping="/**.jsp"></mvc:resources>
+
+</beans>

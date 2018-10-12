@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lsfg" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="129db944-b603-4f2c-9cc7-a3a57e73a9a2" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-collections-3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-collections-3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-digester-2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-fileupload-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-fileupload-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-httpclient-3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-io-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-lang-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/ehcache-2.7.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/ezmorph-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/freemarker-2.3.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/hibernate-entitymanager-4.1.4.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/hibernate-validator-5.2.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/hibernate-validator-annotation-processor-5.2.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/httpclient-4.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/javaGeom-0.11.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/javassist-3.15.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/org.springframework.instrument-3.1.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/org.springframework.instrument.tomcat-3.1.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/org.springframework.jms-3.1.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/org.springframework.js-2.3.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/org.springframework.js.resources-2.3.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/org.springframework.transaction-3.1.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/org.springframework.webflow-2.3.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi-3.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi-3.9-20121203.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi-ooxml-3.9-20121203.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi-ooxml-schemas-3.9-20121203.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/quartz-2.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/quartz-jobs-2.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-instrument-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-instrument-tomcat-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-messaging-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-security-acl-3.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-security-aspects-3.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-security-cas-3.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-security-config-3.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-security-core-3.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-security-crypto-3.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-security-ldap-3.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-security-openid-3.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-security-remoting-3.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-security-taglibs-3.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-security-web-3.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-test-4.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/spring-quartz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/springmvc-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/springmvc-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/image-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/image-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/image-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/image-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/image-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/image-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/thumb-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/thumb-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/thumb-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/thumb-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/thumb-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/gallery/thumb-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/logo.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/mobile2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/telecom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/telecom2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/unicom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/unicom2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/virtual.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/images/virtual2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/additional-methods.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/bootbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/bootstrap-colorpicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/bootstrap-tag.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/bootstrap-wysiwyg.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/chosen.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/date-time" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/date-time/bootstrap-datepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/date-time/bootstrap-timepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/date-time/daterangepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/date-time/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/dropzone.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/excanvas.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/flot" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/flot/jquery.flot.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/flot/jquery.flot.pie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/flot/jquery.flot.resize.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/fuelux" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/fuelux/data" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/fuelux/data/fuelux.tree-sampledata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/fuelux/fuelux.spinner.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/fuelux/fuelux.tree.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/fuelux/fuelux.wizard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/fullcalendar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jqGrid" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jqGrid/i18n" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jqGrid/i18n/grid.locale-en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jqGrid/jquery.jqGrid.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery-1.10.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.autosize.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.colorbox-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.dataTables.bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.dataTables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.easy-pie-chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.gritter.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.hotkeys.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.inputlimiter.1.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.knob.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.maskedinput.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.mobile.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.nestable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.slimscroll.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.sparkline.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.ui.touch-punch.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/mobile" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/mobile/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/mobile/need" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/mobile/need/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/skin" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/skin/default" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/skin/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/skin/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/skin/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/skin/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/skin/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/skin/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/layer/skin/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/markdown" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/markdown/bootstrap-markdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/markdown/markdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/select2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/x-editable" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/x-editable/ace-editable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/assets/js/x-editable/bootstrap-editable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/views/line" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/views/line/lineList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/views/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/views/main.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/views/platform" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/views/platform/numList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdbc.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1933474158">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="20" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="20" />
+          <entry key="Manifest" value="1" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="506" />
+          <entry key="properties" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="506" />
+          <entry key="Properties" value="26" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-241109075">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="MF" value="1" />
+          <entry key="java" value="21" />
+          <entry key="jsp" value="2" />
+          <entry key="properties" value="6" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="21" />
+          <entry key="JSP" value="2" />
+          <entry key="Manifest" value="1" />
+          <entry key="Properties" value="6" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="470" />
+          <entry key="jsp" value="103" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="470" />
+          <entry key="JSP" value="103" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lsfg/controller/ResultController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/views/test.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lsfg/model/Status.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lsfg/model/ResultModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lsfg/model/Encrypt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lsfg/model/Custom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+              <folding>
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>findbysql</find>
+      <find>bootbox-regular</find>
+      <find>addNumSegment</find>
+      <find>身份证</find>
+      <find>zjhzjh</find>
+      <find>zjh</find>
+      <find>obj2StringPretty</find>
+      <find>isIdCard</find>
+      <find>customList</find>
+      <find>customList</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/server/LSFGServer.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/gateway/MobileGateWayUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/gateway/OracleConnection.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/gateway/TelecomGateWayUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/gateway/UnicomGateWayUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/util/BeanUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/util/EhcacheUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/util/ServletUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/util/LinkedCache.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/base/BaseModel.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/util/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/util/SpringBeanUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/server/impl/LSFGServerImpl.java" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/model/status.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/model/custom.java" />
+        <option value="$PROJECT_DIR$/WebRoot/views/platform/numList.jsp" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/util/FastJsonUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/util/RegexUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/base/OracleConnection.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/model/Status.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/util/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/gateway/gateWay.java" />
+        <option value="$PROJECT_DIR$/WebRoot/WEB-INF/springmvc-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/base/BaseDao.java" />
+        <option value="$PROJECT_DIR$/src/jdbc.properties" />
+        <option value="$PROJECT_DIR$/WebRoot/views/test.jsp" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/controller/ResultController.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/model/MD5Digest.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/model/Encrypt.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/model/Custom.java" />
+        <option value="$PROJECT_DIR$/src/com/lsfg/model/ResultModel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\project\maven\maven_repo" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\project\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="955" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LSFG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LSFG" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LSFG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LSFG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LSFG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LSFG" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lsfg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538969179905" />
+    <property name="last_opened_file_path" value="D:/java/lsfg" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.14550781" />
+    <property name="project.structure.side.proportion" value="0.19771428" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lsfg.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\LSFG_project\LSFG\src\com\lsfg\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SAMS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lsfg" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.90" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/spfw/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <deployment>
+        <artifact name="lsfg">
+          <settings>
+            <option name="CONTEXT_PATH" value="/lsfg" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="未命名_SAMS" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3200" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="27473" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="lsfg" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="129db944-b603-4f2c-9cc7-a3a57e73a9a2" name="默认的" comment="" />
+      <created>1522454566209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522454566209</updated>
+      <workItem from="1522454569108" duration="22316000" />
+      <workItem from="1522653969934" duration="2542000" />
+      <workItem from="1524618979339" duration="1406000" />
+      <workItem from="1528275200825" duration="679000" />
+      <workItem from="1528330758685" duration="17000" />
+      <workItem from="1535449263198" duration="958000" />
+      <workItem from="1535504261544" duration="7393000" />
+      <workItem from="1535591130573" duration="366000" />
+      <workItem from="1535591867816" duration="2916000" />
+      <workItem from="1535677897058" duration="8553000" />
+      <workItem from="1536022389751" duration="4000" />
+      <workItem from="1536144612165" duration="482000" />
+      <workItem from="1536483315505" duration="615000" />
+      <workItem from="1538268399477" duration="1954000" />
+      <workItem from="1538270473704" duration="469000" />
+      <workItem from="1538271277164" duration="6012000" />
+      <workItem from="1538279350090" duration="945000" />
+      <workItem from="1538289946989" duration="988000" />
+      <workItem from="1538382676768" duration="1555000" />
+      <workItem from="1538959665209" duration="9435000" />
+      <workItem from="1538988864022" duration="564000" />
+      <workItem from="1539220275586" duration="3202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73371000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18565683" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="设计器" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="设计师" order="9" />
+      <window_info id="Designer" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989305" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.3286119" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="消息" order="11" weight="0.32939914" />
+      <window_info anchor="bottom" id="CheckStyle" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5013405" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="找到" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" weight="0.3286119" />
+      <window_info anchor="bottom" id="运行" order="17" />
+      <window_info anchor="bottom" id="调试" order="18" weight="0.43669528" />
+      <window_info anchor="bottom" id="Messages" order="19" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Tail" order="20" />
+      <window_info anchor="bottom" id="Database Changes" order="21" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="22" />
+      <window_info anchor="bottom" id="JRebel Console" order="23" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="控制板" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="调色板" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Palette" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14075068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="设计器" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="设计师" order="9" />
+      <window_info id="Designer" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989305" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.3286119" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="消息" order="11" weight="0.32939914" />
+      <window_info anchor="bottom" id="CheckStyle" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="找到" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="运行" order="17" />
+      <window_info anchor="bottom" id="调试" order="18" weight="0.43669528" />
+      <window_info active="true" anchor="bottom" id="Messages" order="19" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Tail" order="20" />
+      <window_info anchor="bottom" id="Database Changes" order="21" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="22" />
+      <window_info anchor="bottom" id="JRebel Console" order="23" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="控制板" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="调色板" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Palette" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="LSFG" type="b2602c69:ProjectViewProjectNode" />
+        <item name="LSFG" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/util/UnicomClientUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/util/UnicomGateWayUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/controller/SmsLineController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/controller/PlatFormLineController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/main/SendLineHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/main/SendHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/main/SmsSynchronization.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/main/SendVirtualHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/util/SpringBeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/server/impl/LSFGServerImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/server/LSFGServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/controller/NumSegmentController.java" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/views/main.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/views/platform/numList.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/util/FastJsonUtils.java" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/views/line/lineList.jsp" />
+    <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/json-lib-2.4-jdk15.jar!/net/sf/json/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1036">
+          <caret line="1181" lean-forward="true" selection-start-line="1181" selection-end-line="1181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/org.springframework.web-3.1.1.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-mapper-asl-1.9.9.jar!/org/codehaus/jackson/map/ObjectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="323" column="24" selection-start-line="323" selection-start-column="24" selection-end-line="323" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-mapper-asl-1.9.9.jar!/org/codehaus/jackson/map/annotate/JsonSerialize.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/gateway/gateWay.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/util/EhcacheUtil.java" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/spring-quartz.xml" />
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/util/LinkedCache.java" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="75" column="60" lean-forward="true" selection-start-line="75" selection-start-column="60" selection-end-line="75" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/util/RegexUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="282" column="22" selection-start-line="282" selection-start-column="22" selection-end-line="282" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/springmvc-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="56" column="66" lean-forward="true" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/util/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/LSFG.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1235">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/LSFG/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/工作相关/建设局/教育局接口/LSFG_project/LSFG/src/com/lsfg/base/BaseModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ehcache.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2493" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-598" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nice_cmpp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/base/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="154" column="39" lean-forward="true" selection-start-line="154" selection-start-column="39" selection-end-line="154" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/base/BaseModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/base/OracleConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/model/MD5Digest.java" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/model/Custom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/model/Encrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/model/ResultModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/model/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/views/test.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lsfg/controller/ResultController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>lsfg</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19771428" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (LSFG)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19771428" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LSFG</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19771428" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19771428" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lsfg">
+    <output-path>$PROJECT_DIR$/out/artifacts/lsfg</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="LSFG/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LSFG" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
