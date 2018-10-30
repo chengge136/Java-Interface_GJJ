@@ -13,7 +13,7 @@ public class ResultModel {
     private Status status;
 
     public List<Custom> getCustomList() {
-        customList.
+        
         return customList;
     }
 
